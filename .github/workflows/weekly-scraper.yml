@@ -1,0 +1,56 @@
+name: Weekly Article Scraper
+
+on:
+  schedule:
+    # 每周一 00:00 UTC 运行
+    - cron: "0 0 * * 1"
+  workflow_dispatch: # 允许手动触发
+    inputs:
+      articles_per_source:
+        description: "每个源抓取的文章数"
+        required: false
+        default: "10"
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: 安装依赖
+        run: |
+          pip install requests beautifulsoup4 feedparser
+      
+      - name: 运行爬虫
+        env:
+          ARTICLE_POOL_PATH: articles/pool.json
+        run: |
+          python3 scraper/scraper.py
+      
+      - name: 检查变更
+        id: git-check
+        run: |
+          if git diff --quiet articles/pool.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 提交更新
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add articles/pool.json
+          git commit -m "chore: 每周自动更新文章池 [$(date +%Y-%m-%d)]"
+          git push

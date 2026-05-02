@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "version": "2.1",
+    "lastUpdated": "2026-05-02",
+    "nextScrape": "2026-05-05",
+    "totalArticles": 7,
+    "sources": [
+      "The Economist",
+      "The Guardian",
+      "TIME",
+      "Newsweek",
+      "The New York Times",
+      "BBC News",
+      "New Scientist",
+      "Scientific American",
+      "National Geographic",
+      "Discover",
+      "The Atlantic",
+      "Psychology Today",
+      "Reader's Digest",
+      "HuffPost",
+      "The New Yorker"
+    ],
+    "targetWordCount": {
+      "min": 500,
+      "max": 700
+    }
+  },
+  "articles": [
+    {
+      "id": "neccs-2026-0501",
+      "title": "The Hidden Cost of Fast Fashion on Developing Nations",
+      "source": "The Economist",
+      "sourceCN": "《经济学人》",
+      "sourceType": "news",
+      "category": "社会热点",
+      "level": "CEFR B1-B2",
+      "publishDate": "2026-03-15",
+      "scrapeDate": "2026-05-01",
+      "type": "readingAB",
+      "wordCount": 522,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "The global fashion industry has undergone a profound transformation in recent decades, with the rise of fast fashion fundamentally altering how consumers purchase and discard clothing on an unprecedented scale. Major retailers now release new collections every single week, encouraging shoppers to buy more, wear less, and throw away garments after only a handful of uses. While Western consumers enjoy increasingly affordable and trendy garments at remarkably low prices, the true cost of this relentless cycle is disproportionately borne by developing nations that form the backbone of global supply chains and employ millions of vulnerable workers. This shift has transformed not only how people shop but also their relationship with clothing, turning garments from durable goods into disposable commodities.",
+        "In Bangladesh, the world's second-largest garment exporter after China, factory workers earn as little as 95 dollars per month, barely enough to cover rent and basic meals for their families. Despite decades of international activism and public awareness campaigns led by prominent human rights organisations, wage levels remain stubbornly insufficient to lift workers out of poverty. The 2013 Rana Plaza collapse, which killed over 1,100 workers and injured thousands more, exposed the precarious safety conditions within supply chains. Yet systemic reform remains elusive, with many factories continuing to operate in structurally unsound buildings that pose serious risks to employees who have few alternatives.",
+        "Environmental degradation compounds the human toll significantly. Textile dyeing is responsible for an estimated 20 per cent of global wastewater, much of it discharged untreated directly into rivers and streams in producing countries across South and Southeast Asia. The Buriganga River in Dhaka, once a vital water source for millions of people living in the surrounding communities, is now biologically dead due to decades of unchecked industrial pollution. Fish populations have vanished entirely, and local communities suffer from contaminated drinking water and elevated rates of skin disease and respiratory illness that burden local healthcare systems.",
+        "Some high-profile brands have pledged to adopt sustainable practices and reduce their carbon footprint in response to growing public pressure from environmentally conscious consumers and activist shareholders. However, critics argue that voluntary commitments lack meaningful enforcement and independent oversight from third-party auditors who could verify whether companies are actually meeting their stated goals. Unless binding regulations and transparent supply-chain monitoring become universal industry standards enforced by governments worldwide with real penalties for non-compliance, the fast-fashion model will continue to externalise its environmental and social costs onto the world's most vulnerable communities who have the least power to resist exploitation and demand better working conditions.",
+        "Consumers in developed countries are beginning to shift their attitudes gradually, though change remains slow and uneven across different demographic groups. Second-hand clothing markets have grown rapidly, and campaigns encouraging people to buy less and choose well have gained traction among younger demographics who are more aware of environmental issues and willing to change their habits. Nevertheless, the structural forces driving overproduction and overconsumption remain deeply embedded in the global economy, and meaningful change will require coordinated action from governments, corporations, and consumers alike to reshape an industry that has become far too profitable in its current form to transform voluntarily."
+      ],
+      "summary": "The fast fashion industry shifts its environmental and social costs onto developing nations, where garment workers earn poverty wages and rivers are poisoned by textile waste. Systemic change requires binding regulations rather than voluntary brand commitments.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "disproportionately",
+            "phonetic": "/ˌdɪsprəˈpɔːʃənətli/",
+            "meaning": "不成比例地"
+          },
+          {
+            "word": "precarious",
+            "phonetic": "/prɪˈkeəriəs/",
+            "meaning": "不稳定的；危险的"
+          },
+          {
+            "word": "elusive",
+            "phonetic": "/ɪˈluːsɪv/",
+            "meaning": "难以实现的；难以捉摸的"
+          },
+          {
+            "word": "degradation",
+            "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+            "meaning": "退化；恶化"
+          },
+          {
+            "word": "externalise",
+            "phonetic": "/ɪkˈstɜːnəlaɪz/",
+            "meaning": "将……外部化（转嫁成本）"
+          },
+          {
+            "word": "overconsumption",
+            "phonetic": "/ˌəʊvəkənˈsʌmpʃn/",
+            "meaning": "过度消费"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Rana Plaza Collapse (2013) 拉纳广场倒塌：孟加拉国一座服装厂倒塌，造成 1,134 人死亡，是现代史上最严重的建筑倒塌事故。",
+          "Fast Fashion 快时尚：一种快速、廉价生产服装的商业模式，代表品牌包括 Zara、H&M 和 Shein。",
+          "Bangladesh Garment Industry 孟加拉国服装业：雇用超过 400 万工人（主要为女性），占该国出口的 80% 以上，是全球第二大服装出口国。"
+        ]
+      },
+      "questions": [
+        "According to the passage, what is the main consequence of fast fashion for developing nations?",
+        "What does the author suggest about voluntary commitments by fashion brands?",
+        "The word \"elusive\" in paragraph 2 is closest in meaning to _____."
+      ],
+      "options": [
+        [
+          "A) Increased tourism revenue",
+          "B) Environmental and social costs borne by workers",
+          "C) Higher education opportunities",
+          "D) Improved infrastructure"
+        ],
+        [
+          "A) They are highly effective",
+          "B) They lack enforcement and accountability",
+          "C) They have transformed the industry",
+          "D) They are supported by all stakeholders"
+        ],
+        [
+          "A) easy to achieve",
+          "B) difficult to achieve",
+          "C) highly profitable",
+          "D) clearly defined"
+        ]
+      ],
+      "answers": [
+        1,
+        1,
+        1
+      ],
+      "explanations": [
+        "文章首段指出，快时尚的真实成本不成比例地由发展中国家承担，第二段和第三段具体阐述了工人贫困和环境污染问题。",
+        "第四段明确提到批评者认为品牌方的自愿承诺缺乏强制执行力（lack meaningful enforcement）。",
+        "根据上下文，\"elusive\" 用于形容系统性改革难以实现，因此最接近 \"difficult to achieve\"。"
+      ]
+    },
+    {
+      "id": "neccs-2026-0502",
+      "title": "Why AI Is Struggling to Understand Human Emotion",
+      "source": "New Scientist",
+      "sourceCN": "《新科学家》",
+      "sourceType": "science",
+      "category": "科技前沿",
+      "level": "CEFR B2",
+      "publishDate": "2026-02-20",
+      "scrapeDate": "2026-05-01",
+      "type": "readingC",
+      "wordCount": 516,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "Artificial intelligence has made remarkable strides in recent years, achieving superhuman performance in image recognition, real-time language translation, and strategic game playing that once seemed decades away. Systems can now diagnose diseases from medical scans with greater accuracy than experienced doctors, and language models can write essays that are virtually indistinguishable from human-authored texts. Yet one domain continues to confound even the most advanced systems that researchers have developed so far: understanding human emotion in all its complexity, subtlety, and cultural variation. These achievements have led some to believe that artificial general intelligence is imminent, though most experts disagree.",
+        "The fundamental problem is that emotion is not a universal language that translates neatly across cultures and individuals from different backgrounds and life experiences. A smile in one culture may signal genuine warmth and friendliness to those who share that cultural understanding; in another context, the same expression might mask discomfort, embarrassment, or even hidden hostility that is invisible to an outside observer. AI models trained predominantly on Western datasets routinely misinterpret facial expressions from other regions of the world, leading to flawed conclusions in high-stakes applications ranging from automated hiring software to mental-health diagnostics that could affect millions of people.",
+        "Researchers at the University of Cambridge have found that emotional expression is deeply intertwined with social and environmental context in ways that are extraordinarily difficult to model computationally with current technology. A person's tone of voice, body posture, cultural background, and even the physical setting all shape how emotions are conveyed and received by others in any given interaction. Current AI systems, by contrast, tend to analyse isolated physiological or visual signals — a furrowed brow, a spike in heart rate, a change in vocal pitch — without grasping the broader narrative that gives these signals their true meaning and emotional weight.",
+        "Some leading laboratories are experimenting with multimodal models that attempt to combine text, audio, and visual data into a more holistic analysis of emotional states in real time during natural interactions. These systems can track changes in facial expression while simultaneously processing speech patterns and linguistic content for a more complete picture of a person's emotional state across multiple channels of communication. However, the fundamental challenge remains stubbornly unresolved: emotion is inherently subjective, and subjectivity resists quantification in any reliable or consistent way that would satisfy scientific standards for accuracy and reproducibility. Until AI can navigate the messy, deeply context-dependent nature of human feeling, its so-called emotional intelligence will remain more clever illusion than genuine understanding of the human condition.",
+        "The stakes are significant and growing every day as these systems become more widely deployed across sectors that directly affect people's lives and well-being. As AI systems become embedded in healthcare, education, and criminal justice, their inability to accurately read emotional states could lead to serious consequences for the people affected by their decisions and judgments. A misread expression of pain, anxiety, or fear could have real-world implications that no amount of technical sophistication can easily resolve, making it essential that developers acknowledge the current limitations of their systems and proceed with appropriate caution."
+      ],
+      "summary": "Despite advances in image recognition and language processing, AI still fails to understand human emotions because feelings are culturally variable, context-dependent, and inherently subjective.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "confound",
+            "phonetic": "/kənˈfaʊnd/",
+            "meaning": "使困惑；使混淆"
+          },
+          {
+            "word": "intertwined",
+            "phonetic": "/ˌɪntəˈtwaɪnd/",
+            "meaning": "交织在一起的"
+          },
+          {
+            "word": "multimodal",
+            "phonetic": "/ˌmʌltiˈməʊdl/",
+            "meaning": "多模态的"
+          },
+          {
+            "word": "subjective",
+            "phonetic": "/səbˈdʒektɪv/",
+            "meaning": "主观的"
+          },
+          {
+            "word": "quantification",
+            "phonetic": "/ˌkwɒntɪfɪˈkeɪʃn/",
+            "meaning": "量化"
+          },
+          {
+            "word": "indistinguishable",
+            "phonetic": "/ˌɪndɪˈstɪŋɡwɪʃəbl/",
+            "meaning": "难以区分的"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Multimodal AI 多模态人工智能：能同时处理多种输入（文本、图像、音频）的系统，如 GPT-4 with vision 和 Google Gemini。",
+          "Western Bias in AI 西方偏见：AI 训练数据多来自西方人群，导致对非西方数据表现不佳。",
+          "Affective Computing 情感计算：研究能识别和模拟人类情感的系统，由 MIT 的 Rosalind Picard 开创。"
+        ]
+      },
+      "matchExercise": {
+        "instructions": "Match each paragraph (1-5) with the correct heading (A-F). There is one extra heading.",
+        "headings": [
+          "A) The Cultural Variability of Emotional Expression",
+          "B) AI's Success in Other Domains",
+          "C) The Limitations of Signal-Based Analysis",
+          "D) The Promise and Pitfalls of Multimodal Approaches",
+          "E) The Real-World Consequences of Emotional Misreading",
+          "F) A Breakthrough in AI Emotional Recognition"
+        ],
+        "answers": [
+          "B",
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "explanations": [
+          "第一段列举了AI在图像识别、语言翻译和策略游戏方面的显著进展，对应标题B。",
+          "第二段讨论情绪表达在不同文化中的差异，对应标题A。",
+          "第三段指出当前AI系统倾向于分析孤立信号而无法把握更广泛的语境，对应标题C。",
+          "第四段介绍多模态模型的实验及其面临的根本挑战，对应标题D。",
+          "第五段警告AI情绪误读在医疗、教育和司法领域的严重后果，对应标题E。"
+        ]
+      }
+    },
+    {
+      "id": "neccs-2026-0503",
+      "title": "The Last Bookshop",
+      "source": "The New Yorker",
+      "sourceCN": "《纽约客》",
+      "sourceType": "literature",
+      "category": "文学短篇",
+      "level": "CEFR B2",
+      "publishDate": "2026-01-10",
+      "scrapeDate": "2026-05-01",
+      "type": "readingD",
+      "wordCount": 510,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "Elias had owned the shop for forty-three years, a stretch of time so long that the street outside had changed almost beyond recognition. He could not say precisely when he stopped expecting customers and started merely hoping for them. The brass bell above the door rang perhaps twice a week now, and half of those visitors were looking for the post office next door, having confused the faded green awning with the postal service's blue signage. The other half were teenagers seeking shelter from the rain, their phone screens illuminating their faces with a cold, blue light as they ignored the rows of spines around them entirely.",
+        "\"It is the algorithm,\" his daughter Mara said during Sunday dinner, stirring sugar into her tea with unnecessary force. She spoke gently, the way one might address a frightened animal or a very old person who has not quite understood that the world has moved on without asking permission. \"People do not browse anymore. They click. They do not discover. They are told what to want by machines that have never held a book in their hands.\" Elias nodded and continued to stir his own tea, saying nothing, as he so often did these days.",
+        "He knew about algorithms. He had read about them in a tattered copy of a science journal that someone had left on the counter beside a stack of unsold paperbacks from the previous century. But knowing was not the same as accepting, and accepting was not the same as forgiving a world that had grown indifferent to the quiet magic of browsing shelves. The shop smelled the way it always had — of dust and binding glue and the faint, sweet decay of old paper — and that smell was, to Elias, the smell of a civilisation that still believed in the value of looking rather than being told.",
+        "On a rainy Tuesday in November, a young man with a dripping umbrella and a hesitant expression came in through the bell. He wandered the aisles for nearly twenty minutes, trailing his fingers along the spines with something that resembled reverence. He did not look at his phone once, which struck Elias as almost miraculous in the modern age. Finally, almost apologetically, he asked Elias for a recommendation, as though making a request in a bookshop had become an unusual thing to do.",
+        "\"This one,\" he said, his voice steadier than it had been in months. He walked to a shelf near the window, where the afternoon light still managed to penetrate the grey November sky, and pulled out a slim volume of poetry. \"It will not change your life. But it might make you notice the rain a little more carefully.\"",
+        "The young man smiled in a way that suggested he understood something that Elias himself had not yet put into words. He bought the book with exact change from his coat pocket. The bell rang when he left. Elias stood listening to the sound fade into the street noise, and for a moment the shop felt full."
+      ],
+      "summary": "An elderly bookshop owner watches his business fade as algorithms replace browsing, until a rare customer visit reminds him why the shop still matters.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "algorithm",
+            "phonetic": "/ˈælɡərɪðəm/",
+            "meaning": "算法"
+          },
+          {
+            "word": "tattered",
+            "phonetic": "/ˈtætəd/",
+            "meaning": "破旧的；破烂的"
+          },
+          {
+            "word": "spine",
+            "phonetic": "/spaɪn/",
+            "meaning": "书脊"
+          },
+          {
+            "word": "volume",
+            "phonetic": "/ˈvɒljuːm/",
+            "meaning": "卷；册"
+          },
+          {
+            "word": "reverence",
+            "phonetic": "/ˈrevərəns/",
+            "meaning": "尊敬；敬畏"
+          },
+          {
+            "word": "civilisation",
+            "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+            "meaning": "文明"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Independent Bookshop Decline 独立书店衰落：美国独立书店从 2000 年的 5,000+ 家降至 2015 年的约 2,000 家，2020 年后略有回升。",
+          "Algorithm-Driven Discovery 算法驱动发现：Amazon 和 TikTok 等平台使用推荐算法推送书籍，改变了读者发现新书的方式。",
+          "Symbolism of the Bell 铃铛的象征：铜铃代表数字时代中罕见的人与人之间的真实互动。"
+        ]
+      },
+      "shortAnswer": [
+        "What does the phrase \"stopped expecting customers and started merely hoping for them\" reveal about Elias's emotional state?",
+        "How does Mara's explanation of \"the algorithm\" contrast with Elias's understanding of it?",
+        "Why does Elias recommend the poetry book to the young man, and what does this gesture suggest about his relationship with bookselling?",
+        "What is the significance of the final sentence: \"for a moment the shop felt full\"?"
+      ],
+      "referenceAnswers": [
+        "这句话表明 Elias 已经从乐观期待转为无奈的接受。\"expecting\" 暗示对未来有合理期待，而 \"merely hoping\" 则是一种微弱的、近乎绝望的愿望，反映了他对书店衰落的失落感和无力感。",
+        "Mara 将顾客流失归因于技术变革（算法推荐取代了实体浏览），她的语气冷静理性；而 Elias 虽然读过关于算法的文章，但在情感上无法接受这一现实，体现了两代人对技术冲击的不同态度。",
+        "Elias 推荐的是一本诗集，并说它可能让年轻人“更仔细地注意到雨”。这表明他看重的不仅是售书，更是通过书籍传递对生活的感知力。他的推荐是一种温和的抵抗，坚守着书店作为精神空间的价值观。",
+        "结尾句中 \"felt full\" 并非指物理上的拥挤，而是情感上的充实。年轻人的到来和短暂互动让 Elias 重新感受到书店的意义，那一刻的“满”是对孤独日常的精神补偿。"
+      ]
+    },
+    {
+      "id": "neccs-2026-0504",
+      "title": "The Quiet Crisis in Urban Mental Health",
+      "source": "Psychology Today",
+      "sourceCN": "《今日心理学》",
+      "sourceType": "culture",
+      "category": "心理与社会",
+      "level": "CEFR B1-B2",
+      "publishDate": "2026-03-05",
+      "scrapeDate": "2026-05-01",
+      "type": "readingAB",
+      "wordCount": 521,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "Cities have long been celebrated as engines of opportunity, drawing ambitious individuals from every corner of the globe with the promise of career advancement, cultural enrichment, and social mobility that seemed impossible in their places of origin. But beneath the glossy surface of urban prosperity lies a growing public health concern that receives far less attention than it deserves from policymakers and the media. A substantial and expanding body of research suggests that urban residents face a significantly higher risk of anxiety disorders and clinical depression than their rural counterparts, and this urban-rural mental health gap has widened steadily over the past two decades, even as cities have grown wealthier and more technologically sophisticated.",
+        "One leading theory points to sensory overload as the primary culprit behind this troubling trend that affects millions of city dwellers worldwide. Urban environments bombard the brain with a relentless stream of stimuli from every direction: the constant rumble of traffic noise, the visual chaos of crowded streets, the glow of artificial light long after sunset, and the perpetual ping of digital notifications on our phones that demand immediate attention. Over time, this chronic stimulation can dysregulate the nervous system, leaving individuals trapped in a persistent state of low-grade alert that mimics the body's stress response without any genuine threat to justify it.",
+        "Social isolation paradoxically compounds the problem in ways that researchers are only beginning to understand through large-scale longitudinal studies. People living in the most densely populated areas on Earth often report having fewer meaningful personal connections than those in small towns or villages where everyone knows each other by name. The sheer volume of fleeting daily interactions — the polite nod to neighbours in a lift, the brief exchange with a shopkeeper, the hurried apology when bumping into a stranger — can create a superficial illusion of community without providing the deep emotional support that genuine relationships offer. Loneliness, researchers have found, is not about physical proximity to others but about the quality and depth of those connections that sustain us through difficult times.",
+        "Urban planners and psychologists are beginning to collaborate on potential solutions that address both the physical and social dimensions of this growing problem. Green spaces such as parks and community gardens have been shown to measurably reduce cortisol levels and improve mood across diverse populations regardless of age or socioeconomic background. Pedestrian-friendly neighbourhoods that encourage walking and chance encounters foster a sense of belonging that many city dwellers desperately lack in their daily routines. Community centres provide structured opportunities for social engagement that go beyond superficial interactions. Yet these interventions require sustained political will and long-term financial investment, resources that remain frustratingly scarce in many cities already struggling with housing shortages and crumbling infrastructure.",
+        "The challenge ahead is enormous, but the evidence is clear and compelling from decades of research across multiple disciplines: designing cities that nurture mental well-being is not a luxury reserved for wealthy nations with abundant resources, but a fundamental necessity for the future of urban civilisation as more and more of the world's population moves into cities that were not designed with psychological health in mind."
+      ],
+      "summary": "City dwellers face significantly higher rates of anxiety and depression due to sensory overload and social isolation. Green spaces and community centres offer solutions, but require investment many cities lack.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "counterparts",
+            "phonetic": "/ˈkaʊntəpɑːts/",
+            "meaning": "对应的人或物"
+          },
+          {
+            "word": "bombard",
+            "phonetic": "/bɒmˈbɑːd/",
+            "meaning": "连续轰炸；连珠炮似地提问"
+          },
+          {
+            "word": "dysregulate",
+            "phonetic": "/dɪsˈreɡjuleɪt/",
+            "meaning": "使失调"
+          },
+          {
+            "word": "paradoxically",
+            "phonetic": "/ˌpærəˈdɒksɪkli/",
+            "meaning": "矛盾地；自相矛盾地"
+          },
+          {
+            "word": "interventions",
+            "phonetic": "/ˌɪntəˈvenʃnz/",
+            "meaning": "干预措施"
+          },
+          {
+            "word": "cortisol",
+            "phonetic": "/ˈkɔːtɪsɒl/",
+            "meaning": "皮质醇（压力激素）"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Urban-Rural Mental Health Gap 城乡心理健康差距：城市居民患焦虑症的风险比农村居民高约 20%，患情绪障碍的风险高约 40%。",
+          "Sensory Overload 感官超载：噪音、人群和屏幕造成的过度刺激，在人口密集的城区很常见。",
+          "Social Isolation vs Loneliness 社交孤立与孤独感：孤立是客观缺乏社交接触，孤独感是主观感到孤独，两者都是心理健康的独立风险因素。",
+          "Green Space Research 绿色空间研究：多项研究表明，接触公园和绿地能降低压力激素、降低血压并改善心理健康。"
+        ]
+      },
+      "questions": [
+        "According to the passage, what has happened to the urban-rural mental health gap over the past twenty years?",
+        "What does \"chronic stimulation\" refer to in paragraph 2?",
+        "The author describes social isolation in cities as \"paradoxical\" because _____."
+      ],
+      "options": [
+        [
+          "A) It has narrowed",
+          "B) It has remained stable",
+          "C) It has widened",
+          "D) It has disappeared"
+        ],
+        [
+          "A) Occasional loud events",
+          "B) Persistent exposure to urban stressors",
+          "C) A single traumatic experience",
+          "D) Lack of physical exercise"
+        ],
+        [
+          "A) cities have too many people but too few connections",
+          "B) rural areas have more problems",
+          "C) urban people are happier",
+          "D) technology solves isolation"
+        ]
+      ],
+      "answers": [
+        2,
+        1,
+        0
+      ],
+      "explanations": [
+        "第一段末尾明确指出这一差距在过去二十年中稳步扩大（widened steadily）。",
+        "第二段中 \"chronic stimulation\" 指的是城市环境中持续的感官刺激，包括交通噪音、人群、人造光和数字通知。",
+        "悖论在于：人口密集的城市中，人们反而报告更有意义的联系更少，表面互动多但深层情感支持不足。"
+      ]
+    },
+    {
+      "id": "neccs-2026-0505",
+      "title": "How the Mediterranean Diet Reached the World",
+      "source": "National Geographic",
+      "sourceCN": "《国家地理》",
+      "sourceType": "culture",
+      "category": "文化与生活",
+      "level": "CEFR B1",
+      "publishDate": "2026-02-28",
+      "scrapeDate": "2026-05-01",
+      "type": "cloze",
+      "wordCount": 526,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "The Mediterranean diet, long celebrated for its remarkable health benefits, traces its origins to the traditional eating patterns of Greece, southern Italy, and Spain. For centuries, the people of these Mediterranean regions shared meals built around olive oil, fresh vegetables, whole grains, legumes, and fish, with wine consumed in moderation during communal gatherings that brought families and neighbours together. This was not a carefully engineered nutritional programme designed by health experts, but simply the way people ate, shaped by geography, climate, and centuries of agricultural tradition passed down through generations.",
+        "In the 1950s, American researcher Ancel Keys noticed something striking during his travels: populations in these Mediterranean regions had remarkably low rates of heart disease compared to Americans eating a diet rich in red meat, butter, and processed foods. His landmark Seven Countries Study, which followed thousands of participants across multiple continents over several decades, provided some of the first rigorous scientific evidence linking dietary patterns to cardiovascular health. The findings sparked a fundamental shift in nutritional thinking worldwide and brought the Mediterranean way of eating to global attention.",
+        "Today, the Mediterranean diet is characterised by an abundance of plant-based foods, generous use of olive oil as the primary fat source, moderate consumption of fish and poultry, and minimal intake of red meat and refined sugars. It has been endorsed by major health organisations around the world and is consistently ranked as one of the healthiest dietary patterns in global nutrition surveys. Yet nutritionists caution that the diet's true value lies not just in individual ingredients but in the broader cultural context: meals shared with family and friends around a table, seasonal produce bought from local markets, and a slower, more deliberate pace of life that prioritises enjoyment of food over convenience.",
+        "As the Mediterranean diet spreads far beyond its geographic origins, being adopted by health-conscious consumers in Asia, North America, and beyond, a new challenge has emerged that few have anticipated. Preserving the holistic lifestyle that gives the diet its full health benefit may prove more difficult than simply copying recipes from a cookbook or buying olive oil at the supermarket. A bowl of vegetables eaten alone at a desk while answering emails is not the same experience as a long lunch shared with three generations of family in a sunlit Italian courtyard overlooking the sea."
+      ],
+      "summary": "The Mediterranean diet, discovered by researcher Ancel Keys in the 1950s, is valued not just for its ingredients but for the cultural context of shared meals and slower living that is hard to replicate globally.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "celebrated",
+            "phonetic": "/ˈselɪbreɪtɪd/",
+            "meaning": "著名的；广受赞誉的"
+          },
+          {
+            "word": "legumes",
+            "phonetic": "/ˈleɡjuːmz/",
+            "meaning": "豆类"
+          },
+          {
+            "word": "landmark",
+            "phonetic": "/ˈlændmɑːk/",
+            "meaning": "里程碑式的"
+          },
+          {
+            "word": "cardiovascular",
+            "phonetic": "/ˌkɑːdiəʊˈvæskjələ(r)/",
+            "meaning": "心血管的"
+          },
+          {
+            "word": "holistic",
+            "phonetic": "/həʊˈlɪstɪk/",
+            "meaning": "整体的；全面的"
+          },
+          {
+            "word": "moderation",
+            "phonetic": "/ˌmɒdəˈreɪʃn/",
+            "meaning": "适度；节制"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Ancel Keys (1904-2004)：生理学家，主持了\"七国研究\"，被称为\"地中海饮食之父\"。",
+          "Seven Countries Study 七国研究：1950 年代启动的里程碑式研究，首次揭示了饮食与心血管疾病的关联。",
+          "Cultural Context of Eating 饮食文化背景：研究表明，与谁吃、在哪里吃，对消化、满足感和长期健康有显著影响。"
+        ]
+      },
+      "clozeText": "The Mediterranean diet, long [0] for its remarkable health benefits, traces its origins to the traditional eating [1] of Greece, southern Italy, and Spain. For centuries, people in these regions shared meals built around olive oil, fresh vegetables, and whole grains. In the 1950s, researcher Ancel Keys noticed that these populations had remarkably [2] rates of heart disease compared to Americans. His landmark study provided the first scientific evidence linking dietary patterns to [3] health, sparking a global [4] in nutritional thinking. Today, the diet is characterised by an [5] of plant-based foods and olive oil. Yet nutritionists caution that the diet's true value lies not just in individual ingredients but in the [6] context: meals shared with family and seasonal eating. As the diet spreads worldwide, preserving this [7] lifestyle may prove more challenging than simply copying recipes.",
+      "clozeOptions": [
+        [
+          "A) abandoned",
+          "B) celebrated",
+          "C) criticised",
+          "D) forgotten"
+        ],
+        [
+          "A) patterns",
+          "B) problems",
+          "C) prices",
+          "D) protests"
+        ],
+        [
+          "A) high",
+          "B) low",
+          "C) unknown",
+          "D) rising"
+        ],
+        [
+          "A) mental",
+          "B) cardiovascular",
+          "C) respiratory",
+          "D) digestive"
+        ],
+        [
+          "A) decline",
+          "B) shift",
+          "C) pause",
+          "D) debate"
+        ],
+        [
+          "A) scarcity",
+          "B) absence",
+          "C) abundance",
+          "D) rejection"
+        ],
+        [
+          "A) physical",
+          "B) financial",
+          "C) cultural",
+          "D) political"
+        ],
+        [
+          "A) simple",
+          "B) holistic",
+          "C) rigid",
+          "D) modern"
+        ]
+      ],
+      "clozeAnswers": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "clozeExplanations": [
+        "celebrated 表示“受到赞誉”，符合上下文对地中海饮食健康益处的肯定。",
+        "eating patterns 指“饮食模式”，是固定搭配。",
+        "low rates of heart disease 表示心脏病发病率低，与前文健康益处一致。",
+        "cardiovascular 表示“心血管的”，Keys 的研究主要关注心脏病。",
+        "shift 表示“转变”，指营养学思维的全球性转变。",
+        "abundance 表示“丰富”，与植物性食物充足相呼应。",
+        "cultural context 指“文化背景”，强调饮食与文化的关系。",
+        "holistic 表示“整体的”，指代前文提到的家庭聚餐、季节性食材等综合生活方式。"
+      ]
+    },
+    {
+      "id": "neccs-2026-0506",
+      "title": "Translating the Untranslatable: Words That Define Cultures",
+      "source": "The Atlantic",
+      "sourceCN": "《大西洋月刊》",
+      "sourceType": "culture",
+      "category": "语言与文化",
+      "level": "CEFR B2",
+      "publishDate": "2026-01-25",
+      "scrapeDate": "2026-05-01",
+      "type": "translation",
+      "wordCount": 515,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "Every language contains words that stubbornly resist direct translation, not because of grammatical complexity or syntactic ambiguity that could be resolved through careful analysis by a skilled linguist, but because they encode cultural experiences and worldviews that are truly unique to their speakers and the communities they belong to. The Danish concept of hygge, the Japanese notion of ikigai, the Portuguese saudade — each term captures a specific facet of human life that speakers of other languages must labour to explain in lengthy paragraphs or simply accept as an untranslatable mystery that defines the boundaries of their linguistic understanding. These words reveal what each culture considers important enough to name and celebrate through language. Each of these words carries a wealth of meaning that simply cannot be conveyed through a single word in another language.",
+        "Linguists and anthropologists argue that these so-called untranslatable words are not gaps or deficiencies in other languages that need to be filled or corrected through borrowing. Rather, they are concentrated expressions of cultural values, the result of communities paying unusually close attention to particular dimensions of human experience over many generations of shared living. Hygge is not merely the English word \"coziness\" dressed up in Scandinavian clothing for marketing purposes; it is a social contract about creating warmth, safety, and togetherness in a climate that is dark for much of the year. Ikigai is not simply \"purpose\" or \"reason for being\"; it is the precise intersection of what you love, what you are good at, what the world needs, and what you can be paid for — a concept so deeply embedded in Japanese philosophy that it has no true equivalent in any other language.",
+        "When professional translators encounter such terms in their work, they face a genuine dilemma that has no easy solution and has been debated by scholars for centuries: should they borrow the original word and append an explanatory footnote that interrupts the reading experience and draws attention away from the narrative, or should they sacrifice precision for the sake of readability and natural flow in the target language that their readers will actually understand and engage with? Neither option is entirely satisfactory, but the tension between them reveals something profound about the nature of language itself and its relationship to culture and identity. Words are not merely labels attached to things in the world; they are living maps of how an entire community perceives, categorises, and makes sense of the world around them through centuries of accumulated experience and shared understanding.",
+        "The growing global fascination with untranslatable words — evident in bestselling books, popular podcasts, and viral social media posts that attract millions of views and spark conversations across borders and cultures — suggests a deeper human longing that goes beyond mere curiosity or intellectual amusement. In an increasingly homogenised world where English dominates international business, science, and the internet, these words serve as important reminders that there are infinite ways of experiencing and describing reality, and that no single language, however widely spoken and economically dominant, can capture them all or should be expected to."
+      ],
+      "summary": "Untranslatable words like hygge, ikigai, and saudade reveal how each culture encodes unique experiences into language, and translators must choose between precision and readability.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "encode",
+            "phonetic": "/ɪnˈkəʊd/",
+            "meaning": "编码"
+          },
+          {
+            "word": "facet",
+            "phonetic": "/ˈfæsɪt/",
+            "meaning": "方面；层面"
+          },
+          {
+            "word": "intersection",
+            "phonetic": "/ˌɪntəˈsekʃn/",
+            "meaning": "交叉点"
+          },
+          {
+            "word": "sacrifice",
+            "phonetic": "/ˈsækrɪfaɪs/",
+            "meaning": "牺牲；放弃"
+          },
+          {
+            "word": "profound",
+            "phonetic": "/prəˈfaʊnd/",
+            "meaning": "深刻的；深远的"
+          },
+          {
+            "word": "homogenised",
+            "phonetic": "/həˈmɒdʒənaɪzd/",
+            "meaning": "同质化的"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Hygge（丹麦语）：一种舒适和温馨惬意的品质，常与烛光、与亲友共度时光联系在一起。",
+          "Ikigai（日语）：意为\"生存的意义\"，结合了热爱、擅长、世界需求和报酬四个维度。",
+          "Saudade（葡萄牙语）：一种对缺席的人或事物的深切怀念情绪，带有某种重要事物永远缺失的感觉。",
+          "Linguistic Relativity 语言相对论：语言结构会影响使用者的世界观，也称萨丕尔-沃尔夫假说。"
+        ]
+      },
+      "translationExercise": {
+        "directions": "将以下句子翻译成中文，注意保留原文的文化内涵和语义层次。",
+        "sentences": [
+          "Every language contains words that stubbornly resist direct translation, not because of grammatical complexity, but because they encode cultural experiences unique to their speakers.",
+          "Hygge is not merely \"coziness\" dressed up in Scandinavian clothing; it is a social contract about creating warmth, safety, and togetherness.",
+          "Words are not merely labels attached to things; they are living maps of how an entire community perceives and makes sense of the world."
+        ],
+        "referenceTranslations": [
+          "每种语言中都有一些顽强地抵抗直接翻译的词汇，这并非因为语法复杂，而是因为它们编码了说话者独有的文化体验。",
+          "Hygge 不仅仅是穿着斯的厦纳维亚服装的“舒适”；它是一种社会契约，关乎创造温暖、安全和团聚的感觉。",
+          "词语不仅仅是贴在事物上的标签；它们是活的地图，展示了一个群体如何感知和理解世界。"
+        ],
+        "scoringCriteria": [
+          "关键词：stubbornly resist（顽强地抵抗/难以）、encode（编码）、cultural experiences（文化体验）",
+          "关键词：social contract（社会契约）、warmth, safety, and togetherness（温暖、安全和团聚）",
+          "关键词：living maps（活的地图）、perceives and makes sense of（感知和理解）"
+        ]
+      },
+      "vocab": [
+        "stubbornly: in a way that is difficult to move, change, or defeat",
+        "syntactic: relating to the arrangement of words and phrases in a sentence",
+        "anthropologist: a person who studies human societies and cultures",
+        "conviviality: the quality of being friendly and lively",
+        "homogenised: made uniform or similar throughout"
+      ]
+    },
+    {
+      "id": "neccs-2026-0507",
+      "title": "The Rise of Digital Nomads and the Cities Competing to Host Them",
+      "source": "BBC News",
+      "sourceCN": "BBC新闻",
+      "sourceType": "news",
+      "category": "经济与科技",
+      "level": "CEFR B1-B2",
+      "publishDate": "2026-04-10",
+      "scrapeDate": "2026-05-01",
+      "type": "readingAB",
+      "wordCount": 515,
+      "adapted": true,
+      "originalUrl": "",
+      "paragraphs": [
+        "The term \"digital nomad\" entered the mainstream vocabulary during the global pandemic, as remote work untethered millions of office workers from their traditional desks and daily commuting routines that had defined urban professional life for generations. What began as an emergency survival measure for businesses forced to close their offices rapidly evolved into a permanent lifestyle choice for a growing class of knowledge workers who discovered that their jobs did not require a physical presence in a specific location. Cities around the world are now actively competing to attract this new breed of resident with promises of sunshine, affordable living costs, and vibrant expatriate communities that offer both professional networking and social connection.",
+        "Countries such as Portugal, Estonia, Barbados, and Thailand have launched dedicated visa programmes specifically designed for remote workers who wish to live abroad while maintaining their current employment with companies based elsewhere. These programmes offer a range of attractive incentives including tax breaks for the first few years of residence, streamlined bureaucracy for business registration, and purpose-built co-working infrastructure in scenic locations that appeal to workers seeking both productivity and lifestyle quality. Local governments hope that digital nomads will inject substantial spending into their local economies without placing additional strain on public services, since these workers typically earn salaries from companies based in wealthier countries and are therefore seen as net contributors.",
+        "However, the rapid influx of well-paid remote workers has sparked significant backlash in several popular destinations that were entirely unprepared for the scale and speed of the phenomenon. Lisbon, Barcelona, and Mexico City have all witnessed dramatic surges in rental prices, with long-term residents being pushed out of central neighbourhoods that they could previously afford without difficulty. Critics argue that digital nomadism, despite being marketed as a utopian model of location-independent freedom and global citizenship, is in practice a form of gentrification that privileges affluent international professionals over local working-class communities who have fewer resources to compete in an increasingly expensive housing market.",
+        "The debate has grown particularly heated in places like Bali, where an estimated 30,000 digital nomads now reside in areas that were previously quiet villages with a distinctly local character and pace of life. While the influx has undeniably boosted the local hospitality and services sector, creating jobs and increasing tax revenues for the regional government, it has also created cultural friction between newcomers and established residents, strained water resources beyond their sustainable capacity, and inflated property prices beyond the reach of Balinese families who have lived on the island for many generations and have no intention of leaving their ancestral homes.",
+        "Policymakers now face a delicate and politically sensitive balancing act that will define the future of urban development in an increasingly mobile world: how to welcome global talent and the substantial revenue it generates, while simultaneously protecting housing affordability and social cohesion for existing residents who form the backbone of local communities. Some cities are experimenting with zoning regulations and short-term rental caps to limit the impact of nomad-driven demand, but the challenge remains largely unresolved as the trend shows no sign of slowing down."
+      ],
+      "summary": "The digital nomad lifestyle, accelerated by the pandemic, brings economic benefits to host countries but also drives up housing costs and displaces local residents in popular destinations like Lisbon and Bali.",
+      "highlights": {
+        "keyVocab": [
+          {
+            "word": "untethered",
+            "phonetic": "/ʌnˈteðəd/",
+            "meaning": "脱离束缚的"
+          },
+          {
+            "word": "streamlined",
+            "phonetic": "/ˈstriːmlaɪnd/",
+            "meaning": "精简的；高效的"
+          },
+          {
+            "word": "influx",
+            "phonetic": "/ˈɪnflʌks/",
+            "meaning": "大量涌入"
+          },
+          {
+            "word": "backlash",
+            "phonetic": "/ˈbæklæʃ/",
+            "meaning": "强烈反对"
+          },
+          {
+            "word": "gentrification",
+            "phonetic": "/ˌdʒentrɪfɪˈkeɪʃn/",
+            "meaning": "绅士化（中产化）"
+          },
+          {
+            "word": "cohesion",
+            "phonetic": "/kəʊˈhiːʒn/",
+            "meaning": "凝聚力；团结"
+          }
+        ],
+        "backgroundKnowledge": [
+          "Digital Nomad Visa 数字游牧签证：允许远程工作者在国外长期生活的特殊签证，2020 年由爱沙尼亚首创。",
+          "Gentrification 绅士化（中产化）：较富裕人群迁入社区，推高房价，导致低收入居民被迫搬离。",
+          "Bali Digital Nomad Hub 巴厘岛游牧中心：估计有 30,000+ 名外国远程工作者居住在 Canggu 和 Ubud 等地区。"
+        ]
+      },
+      "questions": [
+        "According to the passage, how did the \"digital nomad\" trend originate?",
+        "What concern do critics raise about digital nomadism?",
+        "The word \"surge\" in paragraph 3 is closest in meaning to _____."
+      ],
+      "options": [
+        [
+          "A) As a tourism campaign",
+          "B) As a remote-work adaptation during the pandemic",
+          "C) As a government policy",
+          "D) As a corporate training program"
+        ],
+        [
+          "A) It reduces tourism",
+          "B) It causes housing price increases and displaces locals",
+          "C) It harms the environment",
+          "D) It decreases tax revenue"
+        ],
+        [
+          "A) drop suddenly",
+          "B) rise suddenly",
+          "C) stabilise",
+          "D) fluctuate"
+        ]
+      ],
+      "answers": [
+        1,
+        1,
+        1
+      ],
+      "explanations": [
+        "第一段明确指出“数字游民”一词在疫情期间进入主流词汇，远程工作使员工脱离办公桌，最初是生存措施后演变为生活方式选择。",
+        "第三段提到批评者认为数字游民主义导致租金飙升，将长期居民推出中心社区，是一种绅士化形式。",
+        "\"surge\" 在上下文指租金价格急剧上涨，因此最接近 \"rise suddenly\"。"
+      ]
+    }
+  ]
+}

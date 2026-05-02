@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NECCS C类大英赛每日阅读</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="hero__label">全国大学生英语竞赛 C类（非英语专业）</p>
+        <h1>每日阅读训练</h1>
+        <p class="hero__subtitle">
+          精选英美主流媒体文章，阅读后写下你的印象，提交查看文章概要与核心词汇。
+        </p>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="article-main">
+        <div class="card article-card">
+          <div class="card__header">
+            <h2 id="article-title">Today's Article</h2>
+            <p id="publish-date" class="date-badge"></p>
+          </div>
+          <div id="article-selector-container" class="selector-row"></div>
+
+          <article>
+            <h3 id="reading-title" class="reading-title"></h3>
+            <p id="reading-source" class="reading-source"></p>
+            <div class="reading-meta-row">
+              <span id="reading-level" class="meta-tag"></span>
+              <span id="reading-category" class="meta-tag"></span>
+              <span id="word-count" class="meta-tag"></span>
+            </div>
+            <p id="timeliness" class="reading-timeliness"></p>
+            <div id="reading-content" class="reading-content"></div>
+          </article>
+        </div>
+
+        <div class="card exercise-card" id="exercise-card">
+          <h2 class="exercise-card-title">Reading Reflection</h2>
+          <p class="exercise-prompt-text">
+            After reading the article, write down what impressed you the most (e.g. events, characters, viewpoints). Submit to view the article summary and key vocabulary.
+          </p>
+          <textarea id="exercise-input" class="exercise-textarea" rows="4" placeholder="For example: I was most impressed by the low wages of garment workers in Bangladesh and the tragedy of the polluted Buriganga River..."></textarea>
+          <div class="exercise-footer">
+            <span id="exercise-word-count" class="word-counter">0 词</span>
+            <button id="exercise-submit" class="submit-btn">提交回答</button>
+          </div>
+          <div id="exercise-feedback" class="feedback-area" style="display: none;"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>文章来源：《经济学人》《卫报》《纽约时报》《新科学家》《国家地理》《大西洋月刊》《今日心理学》《纽约客》等</p>
+      <p>默认每日更换一篇 | 可通过上方下拉菜单自由选择文章池中的任意文章</p>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
